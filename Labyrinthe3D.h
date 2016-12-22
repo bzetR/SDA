@@ -5,7 +5,7 @@
 * @file Item.h
 * @author Robin BIZET
 * @version 1 14/12/2016
-* @brief Projet - Spécialisation du type Labyrinthe3D
+* @brief Projet - SpŽcialisation du type Labyrinthe3D
 */
 
 #include "Tableau3D.h"

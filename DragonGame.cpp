@@ -1,9 +1,5 @@
-//
-//  DragonGame.cpp
-//  
-//
-//  Created by Robin Bizet on 22/12/2016.
-//
-//
+#include <iostream>
+#include <cassert>
+using namespace std;
 
-#include <stdio.h>
+#include "DragonGame.h"
