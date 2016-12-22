@@ -4,11 +4,12 @@ using namespace std;
 
 #include "Tableau3D.h"
 
-
-// bandeau
-
-
-
+/**
+ * @file Tableau3D.cpp
+ * @author Robin BIZET
+ * @version 1 20/12/2016
+ * @brief Projet - Spécialisation des fonctions correspondant au Tableau3D
+ */
 
 
 // descirption fonction

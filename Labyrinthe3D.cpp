@@ -3,6 +3,7 @@
 using namespace std;
 
 #include "Labyrinthe3D.h"
+#include "Tableau3D.cpp"
 
 /**
  * @file Labyrinthe3D.cpp
@@ -12,7 +13,9 @@ using namespace std;
  */
 
 void initialiser(Labyrinthe3D& l, unsigned int dimX,
-                 unsigned int dimY, unsigned int dimZ);
+                 unsigned int dimY, unsigned int dimZ){
+    initialiser(l.t3d, dimX, dimY, dimZ);
+}
 
 
 
