@@ -14,7 +14,7 @@ using namespace std;
 
 void initialiser(Labyrinthe3D& l, unsigned int dimX,
                  unsigned int dimY, unsigned int dimZ){
-    initialiser(l.t3d, dimX, dimY, dimZ);
+    initialiser(l.t3D, dimX, dimY, dimZ);
 }
 
 

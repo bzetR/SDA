@@ -9,6 +9,9 @@
 */
 
 #include "Labyrinthe3D.h"
+#include "Pile.h"
+#include "Liste.h"
+
 
 struct DragonGame {
 	Labyrinthe3D lab; // le labyrinthe
